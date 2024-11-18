@@ -1,4 +1,4 @@
-package brawl.example.brawlstars.Modelo;
+package project.Modelo;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -6,12 +6,12 @@ import java.sql.SQLException;
 
 public class Conexion {
 
-    private static final String DATABASE = "bdempresa";
+    private static final String DATABASE = "bd_brawl";
     private static final String HOSTNAME = "localhost";
     private static final String PORT = "3306";
     private static final String URL = "jdbc:mysql://" + HOSTNAME + ":" + PORT + "/" + DATABASE;
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "root";
+    private static final String PASSWORD = "";
 
 
 

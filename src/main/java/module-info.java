@@ -12,6 +12,8 @@ module brawl.example.brawlstars {
     requires com.almasb.fxgl.all;
     requires java.sql;
 
-    opens brawl.example.brawlstars to javafx.fxml;
-    exports brawl.example.brawlstars;
+    opens project to javafx.fxml;
+    opens project.Controlador to javafx.fxml; // Permite acceso específico al paquete 'project.Controlador'
+
+    exports project;
 }

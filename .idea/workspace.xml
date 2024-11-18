@@ -5,7 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03e0c870-945a-4f6d-8d35-3b3acabd53d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/project/SceneLogin.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/project/ViewIndex.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2d1af294-d3be-4319-aea0-775bd2c976d5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2d1af294-d3be-4319-aea0-775bd2c976d5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2d1af294-d3be-4319-aea0-775bd2c976d5/storage_v2/_src_/schema/bdempresa.B0Zd9Q.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2d1af294-d3be-4319-aea0-775bd2c976d5/storage_v2/_src_/schema/bdempresa.B0Zd9Q.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2d1af294-d3be-4319-aea0-775bd2c976d5/storage_v2/_src_/schema/bdempresa.B0Zd9Q.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2d1af294-d3be-4319-aea0-775bd2c976d5/storage_v2/_src_/schema/bdempresa.B0Zd9Q.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bd_brawl.sql" beforeDir="false" afterPath="$PROJECT_DIR$/bd_brawl.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/brawl/example/brawlstars/Controlador/ControllerLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/Controlador/ControllerLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/brawl/example/brawlstars/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/brawl/example/brawlstars/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/brawl/example/brawlstars/Modelo/Conexion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/Modelo/Conexion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/brawl/example/brawlstars/Modelo/ModelLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/Modelo/ModelLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/brawl/example/brawlstars/Vista/Mensajes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/Vista/Mensajes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/brawl/example/brawlstars/Vista/ViewIndex.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project/Scenes/ViewIndex.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/brawl/example/brawlstars/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/project/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +72,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HelloApplication.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/a20luisgag/Documents/GitHub/BrawlStars",
+    "last_opened_file_path": "C:/Users/Guillermo/OneDrive/Documentos/GitHub/BrawlStars/src/main/resources/project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,9 +99,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Guillermo\OneDrive\Documentos\GitHub\BrawlStars\src\main\resources\project" />
       <recent name="C:\Users\a20luisgag\Documents\GitHub\DAM-24-25\AD - Cris\BD\BrawlStars\src\main\java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Guillermo\OneDrive\Documentos\GitHub\BrawlStars\src\main\java\project\Scenes" />
       <recent name="C:\Users\a20luisgag\Documents\GitHub\DAM-24-25\AD - Cris\BD\BrawlStars\src\main\java" />
     </key>
   </component>
@@ -97,6 +128,7 @@
       <workItem from="1731925796549" duration="751000" />
       <workItem from="1731928376501" duration="3314000" />
       <workItem from="1731934117329" duration="1314000" />
+      <workItem from="1731957756486" duration="7817000" />
     </task>
     <servers />
   </component>
@@ -107,5 +139,15 @@
     <ignored-roots>
       <path value="$USER_HOME$" />
     </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
