@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03e0c870-945a-4f6d-8d35-3b3acabd53d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2d1af294-d3be-4319-aea0-775bd2c976d5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2d1af294-d3be-4319-aea0-775bd2c976d5/storage_v2/_src_/schema/bdempresa.B0Zd9Q.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2d1af294-d3be-4319-aea0-775bd2c976d5/storage_v2/_src_/schema/bdempresa.B0Zd9Q.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bd_brawl.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/brawl/example/brawlstars/Controlador/ControllerLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/brawl/example/brawlstars/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/brawl/example/brawlstars/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/brawl/example/brawlstars/Modelo/Conexion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/brawl/example/brawlstars/Modelo/ModelLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/brawl/example/brawlstars/Vista/Mensajes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/brawl/example/brawlstars/Vista/ViewIndex.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/brawl/example/brawlstars/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +96,7 @@
       <workItem from="1731925495350" duration="287000" />
       <workItem from="1731925796549" duration="751000" />
       <workItem from="1731928376501" duration="3314000" />
-      <workItem from="1731934117329" duration="55000" />
+      <workItem from="1731934117329" duration="1314000" />
     </task>
     <servers />
   </component>
